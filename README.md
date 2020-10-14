@@ -4,7 +4,7 @@ These are a few mini projects I did while learning, The projects are done with P
 
 ## Projects included:
 
+- [+] Random Number Generator
 - [+] Digital Clock
 - [+] Simple Interest Calculator
 - [+] Stop Watch
-- [+] Random Number Generator
